@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<card id="1" name="תל אביב - רח' שינקין" relatedIds="2,4" cost0="35" cost1="180" cost2="540" cost3="1350" cost4="2025" cost5="2700" price="470" priceHouse="250" priceHotel="1260" m="215" />
+	<card id="2" name="תל אביב - רח' ארלוזורוב" relatedIds="1,4" cost0="40" cost1="190" cost2="570" cost3="1425" cost4="2135" cost5="2850" price="495" priceHouse="265" priceHotel="1330" m="230" />
+	<card id="4" name="תל אביב - רח' ה' באייר" relatedIds="1,2" cost0="45" cost1="200" cost2="600" cost3="1500" cost4="2250" cost5="3000" price="520" priceHouse="280" priceHotel="1400" m="240" />
+	
+	<card id="7" name="טבריה - רח' הבנים" relatedIds="9" cost0="15" cost1="35" cost2="105" cost3="265" cost4="400" cost5="525" price="90" priceHouse="50" priceHotel="245" m="40" />
+	<card id="9" name="טבריה - רח' הגליל" relatedIds="7" cost0="10" cost1="45" cost2="135" cost3="335" cost4="500" cost5="675" price="115" priceHouse="65" priceHotel="315" m="55" />
+	
+	<card id="11" name="אילת - רח' אילות" relatedIds="12" cost0="10" cost1="60" cost2="180" cost3="450" cost4="675" cost5="900" price="155" priceHouse="85" priceHotel="420" m="70" />
+	<card id="12" name="אילת - שד' ששת הימים" relatedIds="11" cost0="15" cost1="70" cost2="210" cost3="525" cost4="785" cost5="1050" price="180" priceHouse="100" priceHotel="490" m="85" />
+	
+	<card id="16" name="ירושלים - רח' עמק רפאיים" relatedIds="18,19" cost0="30" cost1="160" cost2="480" cost3="1200" cost4="1800" cost5="2400" price="415" priceHouse="225" priceHotel="1120" m="190" />
+	<card id="18" name="ירושלים - רח' המלך ג'ורג'" relatedIds="16,19" cost0="35" cost1="175" cost2="525" cost3="1315" cost4="1965" cost5="2625" price="455" priceHouse="245" priceHotel="1225" m="210" />
+	<card id="19" name="ירושלים - רח' ירמיהו" relatedIds="16,18" cost0="25" cost1="155" cost2="465" cost3="1160" cost4="1745" cost5="2325" price="405" priceHouse="220" priceHotel="1085" m="185" />
+	
+	<card id="21" name="באר שבע - רח' שז'ר" relatedIds="23,24" cost0="5" cost1="15" cost2="45" cost3="110" cost4="165" cost5="225" price="40" priceHouse="20" priceHotel="105" m="20" />
+	<card id="23" name="באר שבע - רח' ביאליק" relatedIds="21,24" cost0="5" cost1="20" cost2="60" cost3="150" cost4="225" cost5="300" price="55" priceHouse="30" priceHotel="140" m="25" />
+	<card id="24" name="באר שבע - רח' ההסתדרות" relatedIds="21,23" cost0="10" cost1="25" cost2="75" cost3="185" cost4="275" cost5="375" price="65" priceHouse="35" priceHotel="175" m="30" />
+	
+	<card id="26" name="נתניה - שד' בנימין" relatedIds="28,29" cost0="15" cost1="80" cost2="240" cost3="600" cost4="900" cost5="1200" price="210" priceHouse="115" priceHotel="560" m="95" />
+	<card id="28" name="נתניה - רח' המלך דוד" relatedIds="26,29" cost0="20" cost1="95" cost2="285" cost3="710" cost4="1070" cost5="1425" price="250" priceHouse="130" priceHotel="665" m="115" />
+	<card id="29" name="נתניה - רח' הרצל" relatedIds="26,28" cost0="25" cost1="90" cost2="270" cost3="675" cost4="1010" cost5="1350" price="235" priceHouse="125" priceHotel="630" m="110" />
+	
+	<card id="31" name="רמת גן - רח' בן גוריון" relatedIds="33,34" cost0="25" cost1="130" cost2="390" cost3="975" cost4="1460" cost5="1950" price="340" priceHouse="180" priceHotel="910" m="150" />
+	<card id="33" name="רמת גן - רח' ביאליק" relatedIds="31,34" cost0="35" cost1="150" cost2="450" cost3="1125" cost4="1685" cost5="2250" price="390" priceHouse="210" priceHotel="1050" m="180" />
+	<card id="34" name="רמת גן - רח' נגבה" relatedIds="31,33" cost0="30" cost1="135" cost2="405" cost3="1015" cost4="1520" cost5="2025" price="350" priceHouse="190" priceHotel="945" m="160" />
+	
+	<card id="36" name="חיפה - שד' הנשיא" relatedIds="37,39" cost0="15" cost1="105" cost2="315" cost3="785" cost4="1180" cost5="1575" price="275" priceHouse="145" priceHotel="735" m="125" />
+	<card id="37" name="חיפה - רח' דרך הים" relatedIds="36,39" cost0="25" cost1="120" cost2="360" cost3="900" cost4="1350" cost5="1800" price="315" priceHouse="170" priceHotel="840" m="140" />
+	<card id="39" name="חיפה - רח' דרך אלנבי" relatedIds="36,37" cost0="20" cost1="110" cost2="330" cost3="825" cost4="1235" cost5="1650" price="285" priceHouse="155" priceHotel="770" m="130" />
+	
+	<bus id="5" name="קו תל אביב - טבריה" />
+	<bus id="15" name="קו אילת - ירושלים" />
+	<bus id="25" name="קו באר שבע - נתניה" />
+	<bus id="35" name="קו רמת גן - חיפה" />
+	
+	<business id="8" name="חברת המים" />
+	<business id="13" name="חברת הספנות" />
+	<business id="17" name="חברת חשמל" />
+	<business id="22" name="חברת התקשורת" />
+	<business id="32" name="חברת התעופה" />
+</list>
